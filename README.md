@@ -6,3 +6,5 @@ Estoy probando si descargo el readme, ya lo puedo modificar desde el terminar de
 <!-- 2 dia  -->
 
 Este segundo dia he estado haciendo muchos commits para practicar en rama principal
+
+Hola este es un ajuste nuevo
