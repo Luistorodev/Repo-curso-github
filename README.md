@@ -12,3 +12,5 @@ Hola este es un ajuste nuevo
 Hola este es el Tercer ajustes
 
 Hola estoy probando Pullear y subir cambios en rama master
+
+Esta es otra prueba para saber si me vuelve a pedir comandos para subir cosas
